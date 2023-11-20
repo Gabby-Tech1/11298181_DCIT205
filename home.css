@@ -606,3 +606,52 @@ textarea {
     left: 120px;
 
 }
+
+.contact-head {
+    font-size: 38px;
+    text-align: center;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 600;
+}
+
+video {
+    position: absolute;
+    border-radius: 43px;
+    margin-left: 200px;
+    margin-top: 20px;
+}
+
+.contact-info .hd {
+    top: 800px;
+    position: absolute;
+    margin-left: 140px;
+    font-size: 24px;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 700;
+}
+
+.contact-info .contact-details ul{
+    position: absolute;
+    top: 2900px;
+    margin-left: 80px;
+}
+
+.contact-info1 .hd {
+    top: 800px;
+    position: absolute;
+    margin-left: 120px;
+    font-size: 24px;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 700;
+    left: 450px;
+}
+
+.contact-info2 .hd {
+    top: 800px;
+    position: absolute;
+    margin-left: 120px;
+    font-size: 24px;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 700;
+    left: 850px;
+}
