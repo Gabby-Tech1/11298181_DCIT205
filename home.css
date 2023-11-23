@@ -50,7 +50,7 @@ body {
     font-size: 18px;
     color: #0ef;
     
-    transition: color 4s ease-in forwards;
+    transition: color 4s text-shadow 2s ease;
 }
 
 .nav-bar li:hover {
@@ -147,7 +147,6 @@ span {
     grid-template-columns: 1fr 1fr 1fr;
     row-gap: 40px;
     column-gap: 50px;
-
     width: 85%;
     padding: 10px;
     justify-content: space-between;
@@ -694,3 +693,258 @@ video {
     box-shadow: 5px 5px 10px rgba(209, 112, 112, 0.6),
     3px 3px 10px 2px rgba(209, 112, 112, 0.6);
 }
+
+.faculty .faculty-title {
+    font-size: 38px;
+    text-align: center;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 600;
+}
+
+.faculty .short-note{
+    text-align: center;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+.legon img {
+    width: 60%;
+    position: absolute;
+    left: 300px;
+    top: 280px;
+    border-radius: 60px;
+    border: 5px solid #0ef;
+    transition: box-shadow 4s border-color 4s ease-in forwards;
+}
+
+.legon img:hover {
+    box-shadow: 5px 5px 10px 5px rgba(209, 112, 112, 0.6),
+    3px 3px 10px 5px rgba(209, 112, 112, 0.6);
+    border-color: rgba(209, 112, 112, 0.8);
+}
+
+.prof {
+    position: absolute;
+    top: 800px;
+    
+}
+
+.prof .prof-title {
+    margin-left: 450px; 
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 30px;
+    font-weight: 700;
+    text-decoration: underline;
+}
+
+.event-title {
+    position: absolute;
+    width: 100%;
+    height: 487px;
+    font-size: 40px;
+    text-align: center;
+    font-weight: 700;
+    font-family: "Poppins-Regular", Helvetica;
+}
+
+.event-pics1 img{
+    margin-left: 140px;
+    position: relative;
+    width: 400px;
+    margin-top: 100px;
+}
+
+
+.event-pics1 .text1{
+    position: absolute;
+    margin-left: 80px;
+    margin-top: 10px;
+}
+
+.event-pics2 img{
+    left: 740px;
+    position: relative;
+    width: 400px;
+    top: -510px;
+}
+
+
+.event-pics2 .text2{
+    position: absolute;
+    top: -90px;
+    left: 750px;
+    width: 400px;
+}
+
+.event-pics3 img {
+    margin-left: 170px;
+    position: absolute;
+    margin-top: -250px;
+}
+
+.library .lib1{
+    position: absolute;
+    top: 1700px;
+    margin-left: 120px;
+    font-size: 23px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.library .lib{
+    position: absolute;
+    top: 1730px;
+    margin-left: 120px;
+    font-size: 23px;
+    color: wheat;
+    text-decoration: none;
+}
+
+.library .lib:hover{
+    color: #0ef;
+}
+
+.library1 .update{
+    position: absolute;
+    top: 1800px;
+    margin-left: 120px;
+    font-size: 23px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.library1 .lib{
+    position: absolute;
+    top: 1830px;
+    margin-left: 120px;
+    color: wheat;
+    text-decoration: none;
+    font-size: 23px;
+}
+
+.library1 .lib:hover{
+    color: #0ef;
+}
+
+.login-head .log {
+    position: absolute;
+    width: 100%;
+    font-size: 28px;
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+    text-align: center;
+}
+
+.login-form {
+    border: 3px solid #0ef;
+    width: 30%;
+    height: 450px;
+    border-radius: 43px;
+    left: 450px;
+    position: absolute;
+    top: 250px;
+}
+
+.login-form .login-detail {
+    margin-left: 45px;
+    margin-top: 30px;
+}
+
+.login-form .login-detail input{
+    margin-top: 10px;
+    width: 300px;
+    height: 30px;
+    border: 1px solid #0ef;
+    background-color: transparent;
+    color: white;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+.login-form .login-detail1 {
+    margin-left: 45px;
+    margin-top: 30px;
+}
+
+.login-form .login-detail1 input{
+    margin-top: 10px;
+    width: 300px;
+    height: 30px;
+    border: 1px solid #0ef;
+    background-color: transparent;
+    color: white;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+.login-form .login-detail2 {
+    margin-left: 45px;
+    margin-top: 30px;
+}
+
+.login-form .login-detail2 input{
+    margin-top: 10px;
+    width: 300px;
+    height: 30px;
+    border: 1px solid #0ef;
+    background-color: transparent;
+    color: white;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+.login-form button{
+    width: 300px;
+    margin-top: 40px;
+    margin-left: 50px;
+    height: 40px;
+    background-color: #0ef;
+    border: none;
+    border-radius: 20px;
+    transition: background-color 1s ease-in-out;
+    transition: box-shadow 0.5s ease-in-out;
+}
+
+.login-form button a {
+    color: black;
+    font-size: 18px;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.login-form button a:hover, .login-form button:hover {
+    color: white;
+    background-color: rgba(209, 112, 112, 0.8);
+    box-shadow: 5px 5px 10px rgba(209, 112, 112, 0.6),
+    3px 3px 10px 2px rgba(209, 112, 112, 0.6);
+}
+
+.back {
+    color: white;
+    font-size: 23px;
+    top: 750px;
+    position: absolute;
+}
+
+.collaborate {
+    top: 1790px;
+    position: absolute;
+    left: 980px;
+    font-size: 23px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.past .past-title {
+    position: absolute;
+    width: 100%;
+    height: 487px;
+    font-size: 40px;
+    text-align: center;
+    font-weight: 700;
+    font-family: "Poppins-Regular", Helvetica;
+}
+
