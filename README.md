@@ -26,6 +26,7 @@ Locate the html file you want to work on and style it with CSS.
 ![resource and library](https://github.com/Gabby-Tech1/11298181_DCIT205/assets/149122552/e2c27552-7158-42c2-b5ee-1da1e09300a6)
 
 
+
 From this project, I learnt that CSS can be used to make animations and also for styling a website. HTML just gives us what should be on the folder. Whereas, CSS is for styling and making the website look more attractive.
 
 
