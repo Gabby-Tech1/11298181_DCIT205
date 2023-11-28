@@ -3,10 +3,10 @@
 NAME: GABRIEL KWAME ADDO QUAINOO <br>
 ID: 11298181
 
-#Introduction and purpose of the website <br>
+# Introduction and purpose of the website <br>
 Welcome to the Computer Science Department website, a virtual doorway of creativity and discovery! This platform provides an extensive look into our academic programs, faculty expertise, and ground-breaking research activities. It is a vibrant center for students, professors, and inquisitive minds. Explore the specifics of our graduate and undergraduate programs, including information on the curriculum and focused topics including data science, cybersecurity, AI, and machine learning. Keep yourself informed about future activities, departmental news, and the varied student body that contributes to the vibrant academic environment. This website is your go-to source for information on anything from the admissions process to faculty research initiatives to career development opportunities.
 
-#Cloning and Setting up <br>
+# Cloning and Setting up <br>
 To clone a website, open a command prompt or terminal window and browse to the desired directory. Apply the subsequent command:<br>
 Git clone <url_repository> <br>
 Then, Open the Project Directory by navigating there: <br>
@@ -25,8 +25,8 @@ Locate the html file you want to work on and style it with CSS.
 ![research](https://github.com/Gabby-Tech1/11298181_DCIT205/assets/149122552/6cc1f407-38bc-4b4a-a711-c2295e8c8a8a)
 ![resource and library](https://github.com/Gabby-Tech1/11298181_DCIT205/assets/149122552/e2c27552-7158-42c2-b5ee-1da1e09300a6)
 
-
-
+# What I have learnt from the project
+I have learnt that, in building a website involves skills like HTML, CSS, JavaScript and some possible backends. Through this project, I have gained a knowledge and hands-on experience in these technologies.
 From this project, I learnt that CSS can be used to make animations and also for styling a website. HTML just gives us what should be on the website. Whereas, CSS is for styling and making the website look more attractive.
 
 
